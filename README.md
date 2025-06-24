@@ -20,6 +20,47 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 > 3. edit readme.md and change button link by your repository link
 > 4. Now direct click on button eg. Render, Heroku, Koyeb
 
+## Deploy To Google Colab
+
+<a href="https://colab.research.google.com/github/Soninkuwal/drm-nonedrm-Saini-txt-direct/blob/main/drm-nonedrm-Saini-txt-direct.ipynb" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
+
+## Deploy To Cloud Shell Editor
+<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Soninkuwal/drm-nonedrm-Saini-txt-direct&tutorial=help/gcloud.md" >
+  <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
+  
+## Deploy To codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Soninkuwal/drm-nonedrm-Saini-txt-direct)
+
+## Deploy To VPS
+```
+git clone https://github.com/Soninkuwal/drm-nonedrm-Saini-txt-direct
+```
+
+```
+cd drm-nonedrm-Saini-txt-direct
+```
+
+```
+nano modules/vars.py
+```
+
+USE : `ctrl + s` : FOR SAVE | `ctrl + x` : FOR EXIT
+
+```
+sudo apt install docker.io -y
+```
+```
+sudo docker build -t text-leech-bot-by-ashu .
+```
+
+```
+sudo docker run -it --rm text-leech-bot-by-ashu
+```
+
+
 
 
 ## Deploy Via Buttons
