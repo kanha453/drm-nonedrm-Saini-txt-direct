@@ -22,21 +22,21 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github/Soninkuwal/drm-nonedrm-Saini-txt-direct/blob/main/drm-nonedrm-Saini-txt-direct.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/kanha453/drm-nonedrm-Saini-txt-direct/blob/main/drm-nonedrm-Saini-txt-direct.ipynb" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
 ## Deploy To Cloud Shell Editor
-<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Soninkuwal/drm-nonedrm-Saini-txt-direct&tutorial=help/gcloud.md" >
+<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/kanha453/drm-nonedrm-Saini-txt-direct&tutorial=help/gcloud.md" >
   <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
   
 ## Deploy To codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Soninkuwal/drm-nonedrm-Saini-txt-direct)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kanha453/drm-nonedrm-Saini-txt-direct)
 
 ## Deploy To VPS
 ```
-git clone https://github.com/Soninkuwal/drm-nonedrm-Saini-txt-direct
+git clone https://github.com/kanha453/drm-nonedrm-Saini-txt-direct
 ```
 
 ```
